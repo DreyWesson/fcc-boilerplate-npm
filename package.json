@@ -1,6 +1,6 @@
 {
-    "author": "Dare Oduwole",
-    "name": "Dare Oduwole",
+    "name": "fcc-learn-npm-package-json",
+    "author": "Dare-Oduwole",
     "dependencies": {
         "express": "^4.14.0"
     },
